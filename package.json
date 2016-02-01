@@ -1,0 +1,23 @@
+{
+  "name": "custom-form-react",
+  "version": "1.0.0",
+  "description": "## Application  TODOS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --content-base build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seathony/react-custom-payment-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seathony/react-custom-payment-form/issues"
+  },
+  "homepage": "https://github.com/seathony/react-custom-payment-form#readme"
+}
