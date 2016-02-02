@@ -4,10 +4,12 @@
   "description": "## Application  TODOS",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack-merge": "^0.7.3"
+  },
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server --content-base build"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
